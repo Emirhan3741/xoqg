@@ -50,3 +50,11 @@ firestore-debug.log
 
 # API Keys (güvenlik için)
 config.ts
+
+# Coverage
+coverage/
+*.lcov
+
+# Cache
+.cache/
+.parcel-cache/

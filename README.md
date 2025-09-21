@@ -23,8 +23,8 @@ React Native ve Expo ile geliştirilmiş, ChatGPT entegrasyonlu akıllı quiz oy
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone https://github.com/[kullanici-adi]/x-o-quiz-game.git
-   cd x-o-quiz-game
+   git clone https://github.com/Emirhan3741/xoqg.git
+   cd xoqg
    ```
 
 2. **Bağımlılıkları yükleyin:**
